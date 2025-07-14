@@ -14,28 +14,22 @@ This system searches through 4,165 real Yale alumni profiles with advanced featu
 
 ```
 milo_dbs/
-├── README.md                           # This file
-├── CLAUDE.md                          # Instructions for Claude AI
+├── README.md                          # This file
+├── CLAUDE.md                          # Instructions for Claude AI  
 ├── requirements.txt                   # Python dependencies
 ├── config.json                        # Database configuration
 │
-├── Data Files/
+├── Data/
 │   ├── FULLY_RECOVERED_YALE_DATABASE.xlsx  # 4,165 real Yale alumni
-│   └── 361_GPT_COMPANIES.csv              # Company reference data
+│   └── enhanced_mappings.json         # Semantic mappings from real data
 │
-├── Search Engines/
-│   ├── enhanced_yale_search.py        # MAIN: Enhanced semantic search
-│   ├── real_yale_sophisticated_search.py  # Sophisticated search with co-occurrence
-│   └── real_yale_search.py          # Basic real Yale search
-│
-├── Analysis Tools/
-│   ├── analyze_alumni_terminology.py  # Extract domain terminology from data
-│   └── enhanced_mappings.json         # Generated semantic mappings
+├── Search Engine/
+│   └── enhanced_yale_search.py        # MAIN: Enhanced semantic search
 │
 ├── Core Pipeline/
 │   └── main.py                        # Full ML pipeline (advanced features)
 │
-├── modules/                           # Advanced ML modules
+├── modules/                           # Advanced ML modules (12 modules)
 │   ├── ai_entity_extraction.py       # AI-powered entity extraction
 │   ├── cooccurrence_analysis.py      # Co-occurrence matrix building
 │   ├── data_foundation.py            # Data ingestion and normalization
@@ -49,13 +43,7 @@ milo_dbs/
 │   ├── search_infrastructure.py      # Core search infrastructure
 │   └── semantic_layer.py             # Semantic search layer
 │
-├── utils/                             # Utility scripts
-│   ├── create_sample_data.py         # Generate sample data
-│   ├── aws_setup.py                  # AWS infrastructure setup
-│   ├── optimized_ml_loader.py        # Optimized ML model loading
-│   └── prepare_100k_data.py          # Large-scale data preparation
-│
-└── models/                            # Model storage directory
+└── models/                            # Model storage directory (auto-created)
 ```
 
 ## 🚀 Quick Start
@@ -137,17 +125,6 @@ python enhanced_yale_search.py "data scientist startup"
 
 ## 🛠️ Advanced Usage
 
-### Run Terminology Analysis
-```bash
-# Analyze alumni data to update domain mappings
-python analyze_alumni_terminology.py
-```
-
-### Use Sophisticated Search (Alternative)
-```bash
-# Uses graph-based query expansion
-python real_yale_sophisticated_search.py "investment banking" --show-expansion
-```
 
 ### Build Full ML Pipeline (Optional)
 ```bash
