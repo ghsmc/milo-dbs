@@ -1,0 +1,21 @@
+company_name,industry,sector,headquarters,size
+Google,Technology,Search Engine,"Mountain View, CA",Large
+Microsoft,Technology,Software,"Redmond, WA",Large
+Apple,Technology,Consumer Electronics,"Cupertino, CA",Large
+Amazon,Technology,E-commerce,"Seattle, WA",Large
+Meta,Technology,Social Media,"Menlo Park, CA",Large
+Goldman Sachs,Finance,Investment Banking,"New York, NY",Large
+Morgan Stanley,Finance,Investment Banking,"New York, NY",Large
+JPMorgan Chase,Finance,Banking,"New York, NY",Large
+McKinsey & Company,Consulting,Management Consulting,"New York, NY",Large
+Bain & Company,Consulting,Management Consulting,"Boston, MA",Large
+Tesla,Automotive,Electric Vehicles,"Austin, TX",Large
+Netflix,Technology,Streaming,"Los Gatos, CA",Large
+Uber,Technology,Transportation,"San Francisco, CA",Large
+Airbnb,Technology,Hospitality,"San Francisco, CA",Large
+Stripe,Technology,Payments,"San Francisco, CA",Medium
+Coinbase,Technology,Cryptocurrency,"San Francisco, CA",Medium
+SpaceX,Aerospace,Space Technology,"Hawthorne, CA",Large
+Palantir,Technology,Data Analytics,"Denver, CO",Medium
+Salesforce,Technology,CRM Software,"San Francisco, CA",Large
+Adobe,Technology,Creative Software,"San Jose, CA",Large

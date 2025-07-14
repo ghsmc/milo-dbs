@@ -1,0 +1,220 @@
+{
+  "wall": [
+    "wall street",
+    "finance",
+    "financial",
+    "investment banking",
+    "banking"
+  ],
+  "st": [
+    "street",
+    "wall street"
+  ],
+  "vc": [
+    "venture capital",
+    "venture",
+    "capital",
+    "investment",
+    "startup funding"
+  ],
+  "banker": [
+    "investment banker",
+    "banking",
+    "finance",
+    "financial advisor",
+    "investment"
+  ],
+  "investment": [
+    "banking",
+    "finance",
+    "financial",
+    "capital",
+    "asset management"
+  ],
+  "banking": [
+    "investment",
+    "finance",
+    "financial",
+    "banker",
+    "bank"
+  ],
+  "goldman": [
+    "goldman sachs",
+    "investment banking",
+    "finance",
+    "wall street"
+  ],
+  "sachs": [
+    "goldman sachs",
+    "investment banking",
+    "finance"
+  ],
+  "morgan": [
+    "morgan stanley",
+    "jp morgan",
+    "jpmorgan",
+    "investment banking"
+  ],
+  "jp": [
+    "jpmorgan",
+    "jp morgan",
+    "chase",
+    "investment banking"
+  ],
+  "jpmorgan": [
+    "jp morgan",
+    "chase",
+    "investment banking",
+    "finance"
+  ],
+  "software": [
+    "engineer",
+    "developer",
+    "programming",
+    "development",
+    "tech"
+  ],
+  "engineer": [
+    "software",
+    "developer",
+    "technical",
+    "programming",
+    "engineering"
+  ],
+  "developer": [
+    "software",
+    "engineer",
+    "programming",
+    "development",
+    "coding"
+  ],
+  "data": [
+    "scientist",
+    "analyst",
+    "analysis",
+    "analytics",
+    "science"
+  ],
+  "scientist": [
+    "data",
+    "researcher",
+    "research",
+    "analyst",
+    "analysis"
+  ],
+  "machine": [
+    "learning",
+    "ai",
+    "artificial intelligence",
+    "data science"
+  ],
+  "ai": [
+    "artificial intelligence",
+    "machine learning",
+    "data science"
+  ],
+  "consulting": [
+    "consultant",
+    "advisory",
+    "strategy",
+    "management consulting"
+  ],
+  "consultant": [
+    "consulting",
+    "advisory",
+    "strategy",
+    "advisor"
+  ],
+  "mckinsey": [
+    "consulting",
+    "strategy",
+    "management consulting"
+  ],
+  "bain": [
+    "consulting",
+    "strategy",
+    "management consulting"
+  ],
+  "bcg": [
+    "boston consulting",
+    "consulting",
+    "strategy"
+  ],
+  "google": [
+    "alphabet",
+    "tech",
+    "technology",
+    "software"
+  ],
+  "meta": [
+    "facebook",
+    "social media",
+    "tech",
+    "technology"
+  ],
+  "microsoft": [
+    "tech",
+    "technology",
+    "software",
+    "cloud"
+  ],
+  "amazon": [
+    "aws",
+    "cloud",
+    "tech",
+    "technology",
+    "ecommerce"
+  ],
+  "ny": [
+    "new york",
+    "nyc",
+    "manhattan"
+  ],
+  "nyc": [
+    "new york",
+    "ny",
+    "manhattan"
+  ],
+  "sf": [
+    "san francisco",
+    "bay area",
+    "california"
+  ],
+  "la": [
+    "los angeles",
+    "california"
+  ],
+  "manager": [
+    "management",
+    "director",
+    "lead",
+    "supervisor"
+  ],
+  "director": [
+    "manager",
+    "management",
+    "leadership",
+    "head"
+  ],
+  "analyst": [
+    "analysis",
+    "data",
+    "research",
+    "financial"
+  ],
+  "associate": [
+    "analyst",
+    "junior",
+    "staff"
+  ],
+  "vp": [
+    "vice president",
+    "director",
+    "senior"
+  ],
+  "md": [
+    "managing director",
+    "director",
+    "senior"
+  ]
+}
